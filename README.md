@@ -8,7 +8,12 @@ Fund Boost is a fundraising platform that connects fundraisers with users that w
 - Fundraisers will have a unique page about what they are fundraising for
 - Unlike other fundraising sites, fundraisers will be able to sell stuff realting to their cause in an effort to raise more money
 - Jumbotron on homepage with spotlighted fundraising campaign
+- Login Authentication
+
+###### Beyond MVP
 - Ability to share campaign on social media
+- Live chat
+- Authentication using social media
 
 ### Techonolgy Used
 - Ruby on Rails
