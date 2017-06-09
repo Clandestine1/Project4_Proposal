@@ -1,4 +1,4 @@
-# Project4 Proposal ~ Fund Boost
+# Project 4 Proposal ~ Fund Boost
 ##### Shauna Walker
 
 ### About
