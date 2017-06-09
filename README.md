@@ -1,7 +1,18 @@
-# Project4 Proposal Fund Boost
-#### Shauna Walker
+# Project4 Proposal ~ Fund Boost
+##### Shauna Walker
 
-###### Fundraising application
+### About
+Fund Boost is a fundraising platform that connects fundraisers with users that want to donate to chairty or a good cause. Unlike other fundraising platforms, Fund Boost offers the option of the fundraiser selling items in order to boost the amount of money raised and target a new demographic of people. 
+
+###### Fundraising application MVP
 - Fundraisers will have a unique page about what they are fundraising for
 - Unlike other fundraising sites, fundraisers will be able to sell stuff realting to their cause in an effort to raise more money
-- App will use ruby on rails, shopping cart software and other software
+- Jumbotron on homepage with spotlighted fundraising campaign
+- Ability to share campaign on social media
+
+### Techonolgy Used
+- Ruby on Rails
+- Devise 
+- PostgreSQL
+- Bootstrap
+- ...
