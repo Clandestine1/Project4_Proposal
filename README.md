@@ -13,7 +13,8 @@ Fund Boost is a fundraising platform that connects fundraisers with users that w
 ###### Beyond MVP
 - Ability to share campaign on social media
 - Live chat
-- Authentication using social media
+- Authentication using social media 
+- Verification for campaigns/fundraisers similar to twitter verification
 
 ### Techonolgy Used
 - Ruby on Rails
