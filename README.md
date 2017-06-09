@@ -1,4 +1,4 @@
-# Project 4 Proposal ~ Fund Boost
+# Project 4 Proposal ~ Fund Boost ~
 ##### Shauna Walker
 
 ### About
@@ -25,7 +25,7 @@ Fund Boost is a fundraising platform that connects fundraisers with users that w
 - HTML/CSS/JavaScript
 - ...
 
-# Project 4 Proposal ~ Fragments
+# Project 4 Proposal ~ Fragments ~
 ##### Shauna Walker
 
 ### About
