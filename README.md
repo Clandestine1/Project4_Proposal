@@ -21,5 +21,6 @@ Fund Boost is a fundraising platform that connects fundraisers with users that w
 - Devise 
 - PostgreSQL
 - Bootstrap
+- Spree
 - HTML/CSS/JavaScript
 - ...
