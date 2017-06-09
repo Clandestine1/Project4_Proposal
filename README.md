@@ -29,14 +29,14 @@ Fund Boost is a fundraising platform that connects fundraisers with users that w
 
 
 ### About
-Fragments is a platform that connects aspiring writers with other writers and bibliophiles that want to read a story. Writers can use this app to get advice from other writers, get writing prompts, post their stories and sell their stories. Anyone can read a story, but only logged in users can creater, update and delete posts tied to their account.
+Fragments is a judgement free platform that connects aspiring writers with other writers and bibliophiles that want to read a story. Writers can use this app to get advice from other writers on the message board, get random writing prompts, post their stories and sell their stories in the BookStore. Anyone can read a story, but only logged in users can creater, update and delete posts tied to their account.
 
 ###### Fundraising application MVP
 - Search feature by genre
 - Random prompt generator
 - Jumbotron on homepage with spotlighted writers, stories and prompts campaign
 - Login Authentication
-- Shopping Cart 
+- Shopping Cart/ Bookstore 
 - CRUD for stories
 
 ###### Beyond MVP
